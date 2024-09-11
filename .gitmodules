@@ -1,0 +1,3 @@
+[submodule "crosstool-NG"]
+	path = crosstool-NG
+	url = https://github.com/jcmvbkbc/crosstool-NG
